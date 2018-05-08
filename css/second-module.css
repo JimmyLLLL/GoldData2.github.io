@@ -1,0 +1,108 @@
+/*
+* @Author: JimmyLLLL
+* @Date:   2018-05-08 14:58:15
+* @Last Modified by:   JimmyLLLL
+* @Last Modified time: 2018-05-08 21:55:28
+*/
+#second-module-left
+{
+	position: absolute;
+	width: 480.63px;
+	height: 130px;
+	background-color: white;
+	left: 7px;
+	top:117px;
+}
+#second-module-right
+{
+	position: absolute;
+	width: 480.63px;
+	height: 130px;
+	background-color: white;
+	left: 506px;
+	top: 117px;
+}
+.second-module-div
+{
+	position: relative;
+	left: 12px;
+	top: 0px;
+	margin-top: 12px;
+}
+#flag1
+{
+	position: relative;
+	left: 267px;
+}
+#flag2
+{
+	position: relative;
+	left: 339px;
+	border-bottom:1px dashed #000;
+}
+#flag2:hover
+{
+	cursor: pointer;
+	color: #3099fb;
+	border-bottom: 1px #3099fb dashed;
+}
+#flag3
+{
+	position: relative;
+	left: 244px;
+	border-bottom:1px dashed #000;
+}
+#flag3:hover
+{
+	cursor: pointer;
+	color: #3099fb;
+	border-bottom: 1px #3099fb dashed;
+}
+#flag4
+{
+	position: relative;
+	left: 292px;
+}
+#flag5
+{
+	position: relative;
+	left: 398px;
+}
+#flag6
+{
+	position: relative;
+	left: 351px;
+	border-bottom:1px dashed #000;
+}
+#flag6:hover
+{
+	cursor: pointer;
+	color: #3099fb;
+	border-bottom: 1px #3099fb dashed;
+}
+#flag7
+{
+	position: relative;
+	left: 351px;
+	border-bottom:1px dashed #000;
+}
+#flag7:hover
+{
+	cursor: pointer;
+	color: #3099fb;
+	border-bottom: 1px #3099fb dashed;
+}
+#people-img-2
+{
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	top: 0px;
+	left: 439px;
+}
+.gd-icon-edit:hover
+{
+	color: #3099fb;
+	cursor: pointer;
+}

@@ -1,0 +1,59 @@
+/*
+* @Author: JimmyLLLL
+* @Date:   2018-05-08 12:18:37
+* @Last Modified by:   JimmyLLLL
+* @Last Modified time: 2018-05-08 14:54:44
+*/
+#first-module
+{
+	width: 981px;
+	height: 100px;
+	position: absolute;
+	left: 7px;
+	top: 0px;
+}
+.first-module-li
+{
+	position: absolute;
+	top: 0px;
+	width: 230.53px;
+	height: 100px;
+	background-color: white;
+	list-style-type: none;
+}
+#first-module-li1
+{
+	left: 0px;
+}
+#first-module-li2
+{
+	left: 250px;
+}
+#first-module-li3
+{
+	left: 500px;
+}
+#first-module-li4
+{
+	left: 750px;
+}
+.first-module-span
+{
+	position: relative;
+	font-size: 26px;
+	left: 105px;
+	top: 20px;
+	text-decoration: none;
+	color: #222222;
+}
+.first-module-span:hover
+{
+	color: #3099fb;
+}
+.first-module-span-2
+{
+	position: relative;
+	top: 47px;
+	left: 65px;
+	color: #222222;
+}
