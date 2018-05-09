@@ -7,7 +7,7 @@
 #header  /*头部最底层*/
 {
 	height: 48px;
-	width: 1440px;
+	width: 100%;
 	background-color:#333745;
 	font-size: 17px;
 	line-height: 48px;
