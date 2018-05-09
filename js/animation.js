@@ -22,3 +22,19 @@ function searchChangingIn()
 	document.getElementById('search-input-in').style.backgroundColor = "white";
 	document.getElementById('move-i').style.left = "3px";
 }
+
+
+var flag1 = 0;
+$('.ios-btn-myself').click(function(){
+	if(flag1%2==0)
+	{
+		$('#flag3').html('已关闭，停止收集');
+		flag1++
+	}
+	else
+	{
+		$('#flag3').html('已开启，正在收集...');
+		flag1++
+	}
+
+})
