@@ -7,7 +7,7 @@
 #header  /*头部最底层*/
 {
 	height: 48px;
-	width: 100%;
+	width: 1440px;
 	background-color:#333745;
 	font-size: 17px;
 	line-height: 48px;
@@ -18,7 +18,7 @@
 	height: 48px;
 	position: relative;
 	left: 222px;
-	background-color:#333745;
+	
 }
 .brand  /*金数据大logo和字体*/
 {
