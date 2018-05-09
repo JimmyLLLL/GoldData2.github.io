@@ -7,7 +7,6 @@
 *
 {
 	box-sizing: border-box;
-    font-family: sans-serif;
 
 }
 *:before,
@@ -18,7 +17,6 @@
 body
 {
 	min-width: 960px;
-	font-family: "Pingfang SC", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans;
     font-size: 12px;
     line-height: 1.42857143;
     color: #222222;
