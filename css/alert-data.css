@@ -7,14 +7,14 @@
 #alert-data
 {
 	height: 140px;
-	width: 1440px;
+	width: 100%;
 	border-bottom: 1px solid #E6E9ED;
 	background-color: white;
 }
 #alert-content
 {
 	height: 119px;
-	width: 1440px;
+	width: 100%;
 	top: 10px;
 	position: relative;
 
